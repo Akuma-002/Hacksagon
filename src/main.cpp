@@ -12,8 +12,3 @@ void loop() {
   digitalWrite(13, LOW);
   delay(500);
 }
-
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
-}
